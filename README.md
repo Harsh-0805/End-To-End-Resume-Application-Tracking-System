@@ -1,1 +1,1 @@
-# End-To-End-Resume-Application-Tracking-System
+# GenAI Projects
